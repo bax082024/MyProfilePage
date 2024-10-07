@@ -4,12 +4,12 @@ body{
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-image: url(/images/matrix.jpg);
+  background-image: url(images/matrix.jpg);
   background-size: cover;
 }
 
 header{
-  background-image: url(/images/Stonewall.jpg);
+  background-image: url(images/Stonewall.jpg);
   background-size: cover;
   color: #fff;
   padding: 20px;
