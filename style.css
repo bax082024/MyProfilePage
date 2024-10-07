@@ -4,7 +4,8 @@ body{
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #918f8f;
+  background-image: url(/images/matrix.webp);
+  background-size: cover;
 }
 
 header{
